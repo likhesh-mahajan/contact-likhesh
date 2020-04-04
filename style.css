@@ -56,8 +56,14 @@ html {
   margin-bottom: 1rem;
 }
 
+.person-info h4 {
+  font-size: 2.0rem;
+  font-weight: 200;
+  letter-spacing: 0.1rem;
+  margin-bottom: 1rem;
+}
 .person-info p {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
 }
 
 .card-btn {
@@ -198,6 +204,10 @@ html {
   background-color: #007bb6;
 }
 
+.phone .icon-wrapper {
+  background-color: #023d58;
+}
+
 .icon-wrapper i {
   font-size: 2rem;
   color: #fff;
@@ -220,6 +230,10 @@ html {
 
 .linkedin h4 {
   color: #007bb6;
+}
+
+.phone h4 {
+  color: #023d58;
 }
 
 .contact-details p {
